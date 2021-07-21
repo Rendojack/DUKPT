@@ -1,2 +1,2 @@
 # DUKPT
-ANSI X9.24
+Derived Unique Key Per Transaction (ANSI X9.24)
